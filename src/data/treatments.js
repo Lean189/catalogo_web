@@ -58,7 +58,7 @@ export const TREATMENTS = [
     badge: 'Tratamiento Manchas',
     frequency: 'No se realiza en la primera sesión. Hay que dejar actuar entre 30 min y 1 hs',
     duration: '',
-    image: 'assets/images/yellow-peel.jpg',
+    image: 'assets/images/yellow-peel.png',
     includes: [
       'Doble higiene',
       'Peeling enzimático',
@@ -77,7 +77,7 @@ export const TREATMENTS = [
     badge: 'Renovación Celular',
     frequency: 'Se recomienda realizar cada 30 días y para ver cambios 4 sesiones mínimo',
     duration: '',
-    image: 'assets/images/limpieza-peeling.jpg',
+    image: 'assets/images/limpieza-peeling.png',
     includes: [
       'Doble higiene',
       'Exfoliación suave',
